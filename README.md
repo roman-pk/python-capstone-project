@@ -1,2 +1,2 @@
 # python-capstone-project
-Capstone Project for Data Science Intro
+Capstone Project for Entry Level Data Science
